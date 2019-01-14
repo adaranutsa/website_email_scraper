@@ -41,3 +41,11 @@ Simple execute the `test_main.py` for performing unittests.
 ```bash
 python test_main.py
 ```
+
+## Deactivating Environment
+
+After you're done executing the script, you can exit the virtual environment using the following command:
+
+```bash
+deactivate
+```
