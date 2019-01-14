@@ -11,9 +11,10 @@ A simple website email scraper. It's sole purpose is for practicing unittests in
 
 ## Setup
 
-The recommended practice is to set up a virtual environment. Clone this repository and once you change directory to it, execute the following:
+The recommended practice is to set up a virtual environment. Clone this repository and following the instructions.
 
 ```bash
+cd website_email_scraper
 virtualenv -p python3 venv
 . venv/bin/activate
 pip install -r requirements.txt
