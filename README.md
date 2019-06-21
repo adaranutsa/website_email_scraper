@@ -2,7 +2,7 @@
 Python Website Email Scraper
 
 ## Purpose
-A simple website email scraper. It's sole purpose is for practicing unittests in python.
+A simple website email scraper. It's sole purpose is for practicing unittests in python (and getting emails if you'd like).
 
 ## Requirements
 
@@ -36,10 +36,10 @@ python main.py --urls  https://creativecommons.org/about/contact/,https://www.go
 
 ## Testing
 
-Simple execute the `test_main.py` for performing unittests.
+Execute unit tests
 
 ```bash
-python test_main.py
+python -m unittest
 ```
 
 ## Deactivating Environment
