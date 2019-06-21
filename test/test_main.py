@@ -25,7 +25,7 @@ class TestCases(unittest.TestCase):
             "audit@creativecommons.org"
         ]
 
-        with open("tests/sample_data.txt") as f:
+        with open("test/sample_data.txt") as f:
             self.sample_data = f.read()
 
     @httpretty.activate
